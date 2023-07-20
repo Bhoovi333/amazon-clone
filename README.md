@@ -1,1 +1,1 @@
-# amazon-clone is an interesting website based on css
+# amazon-clone is an interesting website based on html andcss
